@@ -1,0 +1,46 @@
+{
+  "name": "fitnessapp_uidemo",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "author": "Odelola Oluwaseyi hello@odelola@gmail.com",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-navigation/bottom-tabs": "^6.5.7",
+    "@react-navigation/native": "^6.1.6",
+    "@react-navigation/native-stack": "^6.9.12",
+    "expo": "~46.0.0",
+    "expo-linear-gradient": "^12.3.0",
+    "expo-status-bar": "~1.4.4",
+    "nativewind": "^2.0.11",
+    "react": "18.2.0",
+    "react-native": "0.69.6",
+    "react-native-safe-area-context": "4.5.0",
+    "react-native-screens": "~3.20.0",
+    "react-native-svg": "12.1.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "react-native-svg-transformer": "^1.0.0",
+    "tailwindcss": "^3.2.7"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Odelola/fitnessApp_uidemo.git"
+  },
+  "keywords": [
+    "react-native",
+    "ui",
+    "expo",
+    "figma"
+  ],
+  "bugs": {
+    "url": "https://github.com/Odelola/fitnessApp_uidemo/issues"
+  },
+  "homepage": "https://github.com/Odelola/fitnessApp_uidemo"
+}
